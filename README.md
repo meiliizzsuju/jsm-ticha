@@ -1,6 +1,11 @@
 # ref
 https://youtu.be/F627pKNUCVQ
 
+
+- Figma Design : https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&t=490bUbgXttaK7npd-3 
+- Gradient Generator : https://angrytools.com/gradient/
+- CSS Animation Generator : https://animista.net/play/basic
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
