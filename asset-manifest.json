@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jsm-ticha/static/css/main.ce2d7bc0.css",
+    "main.js": "/jsm-ticha/static/js/main.15f2c6f7.js",
+    "static/media/logo.svg": "/jsm-ticha/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/jsm-ticha/index.html",
+    "main.ce2d7bc0.css.map": "/jsm-ticha/static/css/main.ce2d7bc0.css.map",
+    "main.15f2c6f7.js.map": "/jsm-ticha/static/js/main.15f2c6f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2d7bc0.css",
+    "static/js/main.15f2c6f7.js"
+  ]
+}
