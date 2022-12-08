@@ -10,6 +10,12 @@
   --color-footer : #031B34;
   --color-blog: #042c54;
   --color-text: #81AFDD;
+  --color-text-light: #fff;
   --color-subtext: #FF8A71;
   --color-btn-text: #fff;
+}
+
+h1,h2,h3,h4,h5,p{
+  font-family: var(--font-family);
+  font-style: normal;
 }
