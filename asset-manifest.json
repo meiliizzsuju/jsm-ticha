@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/jsm-ticha/static/css/main.ce2d7bc0.css",
-    "main.js": "/jsm-ticha/static/js/main.15f2c6f7.js",
+    "main.css": "/jsm-ticha/static/css/main.7f195edc.css",
+    "main.js": "/jsm-ticha/static/js/main.b5c8d975.js",
+    "static/media/ai.png": "/jsm-ticha/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/people.png": "/jsm-ticha/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/jsm-ticha/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/jsm-ticha/index.html",
-    "main.ce2d7bc0.css.map": "/jsm-ticha/static/css/main.ce2d7bc0.css.map",
-    "main.15f2c6f7.js.map": "/jsm-ticha/static/js/main.15f2c6f7.js.map"
+    "main.7f195edc.css.map": "/jsm-ticha/static/css/main.7f195edc.css.map",
+    "main.b5c8d975.js.map": "/jsm-ticha/static/js/main.b5c8d975.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce2d7bc0.css",
-    "static/js/main.15f2c6f7.js"
+    "static/css/main.7f195edc.css",
+    "static/js/main.b5c8d975.js"
   ]
 }
