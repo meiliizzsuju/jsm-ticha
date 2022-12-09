@@ -9,6 +9,10 @@
   background-size: cover;
 }
 
+.gpt3__whatpt3 .section__margin{
+  margin-top: 0;
+}
+
 
 .gpt3__whatpt3-feature{
   display: flex;
@@ -97,10 +101,3 @@
 
 }
 
-
-
-/* mobile */
-
-@media screen and (max-width: 490px) {
-
-}

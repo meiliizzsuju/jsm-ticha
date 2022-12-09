@@ -1,6 +1,5 @@
 import React from 'react'
 import Feature from '../../components/feature/Feature';
-// import bg_overlay from '../../assets/bg-overlay.png'
 import './whatGPT3.css'
 
 const gpt3__whatpt3 = 'gpt3__whatpt3';
