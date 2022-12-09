@@ -26,7 +26,16 @@
 .gpt3__navbar-links_container{
   display: flex;
   flex-direction: row;
+}
 
+.gpt3__navbar-links_container ul,
+.gpt3__navbar-menu_container ul{
+  list-style: none;
+}
+
+.gpt3__navbar-links_container li,
+.gpt3__navbar-menu_container li{
+  display: inline-block;
 }
 
 .gpt3__navbar-sign{
@@ -35,9 +44,9 @@
   align-items: center;
 }
 
-.gpt3__navbar-links_container p,
+.gpt3__navbar-links_container li,
 .gpt3__navbar-sign,
-.gpt3__navbar-menu_container p{
+.gpt3__navbar-menu_container li{
   color: var(--color-btn-text);
   font-family: var(--font-family);
   font-weight: 500;
@@ -47,6 +56,10 @@
 
   margin: 0 1rem;
   cursor: pointer;
+}
+
+.gpt3__navbar-menu_container-links-sign p{
+  color: var(--color-text-light);
 }
 
 .gpt3__navbar-sign button,
@@ -113,7 +126,7 @@
   .gpt3__navbar-links_logo {
     margin-right: 1.5rem;
   }
-  .gpt3__navbar-links_container p{
+  .gpt3__navbar-links_container li{
     margin: 0 0.75rem;
   }
 }
@@ -127,6 +140,10 @@
   }
   .gpt3__navbar-sign button{
     position: relative;
+  }
+  .gpt3__navbar-menu_container li{
+    display: block;
+    margin: 1rem 0;
   }
 }
 
@@ -150,6 +167,14 @@
 
   .gpt3__navbar-manu_container {
     top: 20px;
+  }
+  
+  .gpt3__navbar-menu_container li{
+    margin: 0.5rem 0;
+  }
+  .gpt3__navbar-menu_container li,
+  .gpt3__navbar-menu_container-links-sign p{
+    font-size: 14px;
   }
 
   .gpt3__navbar-menu_container-links-sign{

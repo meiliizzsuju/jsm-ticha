@@ -30,3 +30,26 @@
   line-height: 30px;
 }
 
+
+
+/* mobile */
+@media screen and (max-width: 700px) {
+  .gpt3__features-container__feature-title h2{
+    line-height: 1.5;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
+
+
+@media screen and (max-width: 550px) {
+
+  .gpt3__features-container__feature-title h2{
+    font-size: 20px;
+  }
+
+  .gpt3__features-container__feature-text p{
+    font-size: 14px;
+  }
+}

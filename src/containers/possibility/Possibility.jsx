@@ -6,7 +6,7 @@ const gmt3_possibility = 'gmt3_possibility';
 
 const Possibility = () => {
   return (
-    <div className={gmt3_possibility+" section__margin"}>
+    <section className={gmt3_possibility+" section__margin"}>
       <div className={gmt3_possibility+'__content'}>
         <span>Request Early Access to Get Started</span>
         <h2 class="gradient__text">The possibilities are <br className='large'/>beyond your imagination</h2>
@@ -16,7 +16,7 @@ const Possibility = () => {
       <div className={gmt3_possibility+'__image'}>
         <img src={possibility_img} alt="possibility"></img>
       </div>
-    </div>
+    </section>
   )
 }
 
