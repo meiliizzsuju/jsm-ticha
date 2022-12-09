@@ -1,0 +1,46 @@
+{
+  "blogDate" : [
+    {
+      "title": "1 GPT-3 and Open  AI is the future. Let us exlore how it is?",
+      "datetime": "2022-12-9",
+      "featured": false,
+      "img": "blog02.png"
+    },
+    {
+      "title": "2 GPT-3 and Open  AI is the future. Let us exlore how it is?",
+      "datetime": "2022-12-9",
+      "featured": false,
+      "img": "blog03.png"
+    },
+    {
+      "title": "3 GPT-3 and Open  AI is the future. Let us exlore how it is? [Featured]",
+      "datetime": "2022-12-9",
+      "featured": true,
+      "img": "blog01.png"
+    },
+    {
+      "title": "4 GPT-3 and Open  AI is the future. Let us exlore how it is?",
+      "datetime": "2022-12-9",
+      "featured": false,
+      "img": "blog04.png"
+    },
+    {
+      "title": "5 GPT-3 and Open  AI is the future. Let us exlore how it is?",
+      "datetime": "2022-12-9",
+      "featured": false,
+      "img": "blog05.png"
+    },
+    {
+      "title": "6 GPT-3 and Open  AI is the future. Let us exlore how it is?",
+      "datetime": "2022-12-9",
+      "featured": false,
+      "img": "blog05.png"
+    },
+    {
+      "title": "7 GPT-3 and Open  AI is the future. Let us exlore how it is?",
+      "datetime": "2022-12-9",
+      "featured": false,
+      "img": "blog05.png"
+    }
+  ]
+}

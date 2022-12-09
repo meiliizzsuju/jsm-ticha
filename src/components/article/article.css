@@ -1,0 +1,50 @@
+.gpt3__article {
+
+}
+
+.gpt3__article-image{
+  position: relative;
+  padding-top: 49%;
+  overflow: hidden;
+}
+
+.gpt3__article-image img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: 0;
+  bottom: 0;
+  transform: translate(-50%,-50%);
+  width: 130%;
+  height: auto;
+}
+
+.gpt3__article-content{
+  background-color: #042C54;
+  color: var(--color-text-light);
+  padding: 1rem 2rem 2rem;
+}
+
+.gpt3__article-content time,
+.gpt3__article-content a{
+  font-family: var(--font-family);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+
+.gpt3__article-content h3{
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 1rem 0;
+}
+
+
+
+/* S tablet */
+
+@media screen and (max-width: 650px) {
+  .gpt3__article-content h3{
+    font-size: 16px;
+  }
+}
