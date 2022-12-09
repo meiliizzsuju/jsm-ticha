@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jsm-ticha/static/css/main.3d6e267b.css",
+    "main.css": "/jsm-ticha/static/css/main.a76afa0c.css",
     "main.js": "/jsm-ticha/static/js/main.773cb2c9.js",
     "static/media/ai.png": "/jsm-ticha/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/blur-02.png": "/jsm-ticha/static/media/blur-02.591550e5bea9b51247bc.png",
@@ -8,11 +8,11 @@
     "static/media/people.png": "/jsm-ticha/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/jsm-ticha/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/jsm-ticha/index.html",
-    "main.3d6e267b.css.map": "/jsm-ticha/static/css/main.3d6e267b.css.map",
+    "main.a76afa0c.css.map": "/jsm-ticha/static/css/main.a76afa0c.css.map",
     "main.773cb2c9.js.map": "/jsm-ticha/static/js/main.773cb2c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d6e267b.css",
+    "static/css/main.a76afa0c.css",
     "static/js/main.773cb2c9.js"
   ]
 }
