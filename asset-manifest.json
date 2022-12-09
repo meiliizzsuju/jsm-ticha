@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/jsm-ticha/static/css/main.a76afa0c.css",
-    "main.js": "/jsm-ticha/static/js/main.773cb2c9.js",
+    "main.css": "/jsm-ticha/static/css/main.f2e3eefd.css",
+    "main.js": "/jsm-ticha/static/js/main.fb34ec90.js",
     "static/media/ai.png": "/jsm-ticha/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/jsm-ticha/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blur-02.png": "/jsm-ticha/static/media/blur-02.591550e5bea9b51247bc.png",
     "static/media/bg-overlay.png": "/jsm-ticha/static/media/bg-overlay.d40cbee97c30529ef8ad.png",
     "static/media/people.png": "/jsm-ticha/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/jsm-ticha/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/jsm-ticha/index.html",
-    "main.a76afa0c.css.map": "/jsm-ticha/static/css/main.a76afa0c.css.map",
-    "main.773cb2c9.js.map": "/jsm-ticha/static/js/main.773cb2c9.js.map"
+    "main.f2e3eefd.css.map": "/jsm-ticha/static/css/main.f2e3eefd.css.map",
+    "main.fb34ec90.js.map": "/jsm-ticha/static/js/main.fb34ec90.js.map"
   },
   "entrypoints": [
-    "static/css/main.a76afa0c.css",
-    "static/js/main.773cb2c9.js"
+    "static/css/main.f2e3eefd.css",
+    "static/js/main.fb34ec90.js"
   ]
 }
