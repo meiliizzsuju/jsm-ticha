@@ -7,7 +7,7 @@ const articleData = jsonFile.blogDate;
 
 const Blog = () => {
   return (
-    <section className='gpt3__blog section__margin'>
+    <section className='gpt3__blog section__margin' id="blog">
       <div className='gpt3__blog-title'>
         <h2 className='gradient__text'>A lot is happening, <br/>We are blogging about it.</h2>
       </div>
