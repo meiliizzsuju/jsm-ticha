@@ -1,0 +1,53 @@
+.gpt3__fcta{
+  text-align: center;
+  padding: 7rem;
+}
+
+.gpt3__fcta h3{
+  font-size: 62px;
+  list-style: 1.5;
+  max-width: 820px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 4rem 0;
+}
+
+.gpt3__fcta .btn-square{
+  background-color: transparent;
+  color: var(--color-text-light);
+  font-size: 18px;
+  line-height: 21px;
+  padding: 1rem 2rem;
+}
+
+
+
+/* Queary */
+@media screen and (max-width: 1350px) {
+  .gpt3__fcta{
+    text-align: center;
+    padding: 4rem;
+  }
+
+  .gpt3__fcta h3{
+    font-size: 56px;
+  }
+}
+
+
+@media screen and (max-width: 900px) {
+  .gpt3__fcta h3{
+    font-size: 42px;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  .gpt3__fcta{
+    padding: 2rem;
+  }
+
+  .gpt3__fcta h3 {
+    font-size: 36px;
+  }
+}

@@ -15,12 +15,18 @@
   --color-btn-text: #fff;
 }
 
-h1,h2,h3,h4,h5,p,span{
+h1,h2,h3,h4,h5,p,span,ul,ol,li{
   font-family: var(--font-family);
   font-style: normal;
 }
 
-
+/* buttons */
+.btn-square{
+  border: 1px solid #FFFFFF;
+  border-radius: 0;
+  outline: none;
+  padding: 1rem;
+}
 
 /* small large */
 @media screen and (max-width: 1050px) {
