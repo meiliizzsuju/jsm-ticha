@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jsm-ticha/static/css/main.032636e4.css",
-    "main.js": "/jsm-ticha/static/js/main.6ef192f5.js",
+    "main.css": "/jsm-ticha/static/css/main.c88dfd3c.css",
+    "main.js": "/jsm-ticha/static/js/main.d50ed67d.js",
     "static/media/ai.png": "/jsm-ticha/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/jsm-ticha/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/jsm-ticha/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -15,11 +15,11 @@
     "static/media/people.png": "/jsm-ticha/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/jsm-ticha/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/jsm-ticha/index.html",
-    "main.032636e4.css.map": "/jsm-ticha/static/css/main.032636e4.css.map",
-    "main.6ef192f5.js.map": "/jsm-ticha/static/js/main.6ef192f5.js.map"
+    "main.c88dfd3c.css.map": "/jsm-ticha/static/css/main.c88dfd3c.css.map",
+    "main.d50ed67d.js.map": "/jsm-ticha/static/js/main.d50ed67d.js.map"
   },
   "entrypoints": [
-    "static/css/main.032636e4.css",
-    "static/js/main.6ef192f5.js"
+    "static/css/main.c88dfd3c.css",
+    "static/js/main.d50ed67d.js"
   ]
 }
